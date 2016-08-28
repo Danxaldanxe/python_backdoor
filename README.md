@@ -1,5 +1,6 @@
-# Backdoor by Hades.y2k
-#### official.hadesy2k@protonmail.com
+Backdoor by **Hades.y2k**
+=========================
+[official.hadesy2k@protonmail.com](mailto:official.hadesy2k@protonmail.com)
 
 Backdoor written in Python that will give reverse shell to attacker. The server will be listening on victim machine for incoming connection.
 
@@ -7,7 +8,11 @@ And if you target Windows machine, use _winrag module to edit Registry therefore
 
 ###### New feature: Add password authentication. Server will accept the connection only if the password provided by attacker console is valid.
 
-##### Features: Upload scripts for further attacks such as gaining Admin access or use as bot for DDOS. Steal(download) Datas. use 'exit' to disconnect and you can reconnect easily. For commands in detials, type 'help' in console.
+##### Features: Upload scripts for further attacks such as gaining Admin access or use as bot for DDOS. OR steal datas. use 'exit' to disconnect and you can reconnect easily. For commands in detials, type 'help' in console.
+
+```
+you might need to do port forwarding on your router
+```
 
 ##### Usage for console: python console.py ip port password.
 
