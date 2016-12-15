@@ -49,7 +49,7 @@ def connectServer(ip, port, password):
             session.close()
             exit()
 
-        banner()
+        #banner()
         print("Connected to remote host")
         info()
         prompt()
