@@ -16,7 +16,7 @@ you might need to do port forwarding on your router
 
 ##### Usage for console: python console.py ip port password.
 
-##### Bind server.py with legitimate program and send it to victim. You can actually just give server.py and told to run it.
+##### Bind server.py with legitimate program and send it to victim.
 
 
 ### Screenshots
